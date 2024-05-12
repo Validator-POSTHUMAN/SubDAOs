@@ -32,3 +32,8 @@
 - [Admin SubDAO for russian-speakers community](https://daodao.zone/dao/juno1332n0ydjufkl0agp5mp5tcpyprdlh6yd2wmzyddhssu8j3sx6alse4yqwk)
 
 - [POSTHUMAN Community SubDAO for ukrainian-speakers](https://daodao.zone/dao/juno10p866hul4r7jzp894lcxzjg74zk4g484m8z4y82ha3z44ccqymkqdvaqvh)
+
+## SubDAO Tools
+
+- [Posthuman Governance Bot](https://t.me/PosthumanGovernaceBot)
+- [PHMN Whales Bot](https://t.me/PPHMN_whales)
