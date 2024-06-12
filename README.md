@@ -1,5 +1,12 @@
 # POSTHUMAN SubDAOs
 
+## SubDAO Tools
+
+- [Posthuman Governance Bot](https://t.me/PosthumanGovernaceBot)
+- [PHMN Whales Bot](https://t.me/PPHMN_whales)
+- [SubDAO Sticker pack](https://t.me/addstickers/SubDAOs)
+- [SubDAO emoji](https://t.me/addemoji/SubDAOs_emoji)
+
 ## The list of SubDAOs
 
 - [POSTHUMAN DAS](https://daodao.zone/dao/juno1h5ex5dn62arjwvwkh88r475dap8qppmmec4sgxzmtdn5tnmke3lqwpplgg/home) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/POSTHUMAN_logo_1024.png)
@@ -35,7 +42,4 @@
 
 - [Info SubDAO](https://daodao.zone/dao/juno1ud8avxjwk5m97s8s5pqd0qhg0lyxqxefjzupyhrqvpq2002svfpq8urfuq) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/info_subdao_512.png)
 
-## SubDAO Tools
 
-- [Posthuman Governance Bot](https://t.me/PosthumanGovernaceBot)
-- [PHMN Whales Bot](https://t.me/PPHMN_whales)
