@@ -33,6 +33,8 @@
 
 - [POSTHUMAN Community SubDAO for ukrainian-speakers](https://daodao.zone/dao/juno10p866hul4r7jzp894lcxzjg74zk4g484m8z4y82ha3z44ccqymkqdvaqvh) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/Community_UA_subdao_512.png)
 
+- [Info SubDAO](https://daodao.zone/dao/juno1ud8avxjwk5m97s8s5pqd0qhg0lyxqxefjzupyhrqvpq2002svfpq8urfuq) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/info_subdao_512.png)
+
 ## SubDAO Tools
 
 - [Posthuman Governance Bot](https://t.me/PosthumanGovernaceBot)
