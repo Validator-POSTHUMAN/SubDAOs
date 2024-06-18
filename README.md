@@ -16,7 +16,7 @@
 
 - [Strategic SubDAO](https://daodao.zone/dao/juno1ejdt5w55ad8c3syj8mph3xhchee2jtlcfpw9sm0mq2fh80qygudsjzrwjj) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/Strategic_subdao_512.png)
 - [Reputation SubDAO](https://daodao.zone/dao/juno1uwmtcc8lxc7waqy9takvnsautlfx5qp688jykvvuk4fezd8jf6fs549ym2) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/Reputation_subdao_512.png)
-- [Content SubDAO](https://daodao.zone/dao/juno1ujl7hlglktdll3g8d3sttw83vw969ncwl3npzfaj7qplgzhhu92qdfdte4) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/Content_subdao_512.png)
+- [Content SubDAO](https://daodao.zone/dao/juno1ujl7hlglktdll3g8d3sttw83vw969ncwl3npzfaj7qplgzhhu92qdfdte4) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/Content_subdao_512.png) | [Dedicated repo with Content SubDAO manifesto and instructions](https://github.com/Validator-POSTHUMAN/Content-SubDAO)
 - [Tech SubDAO](https://daodao.zone/dao/juno1l2t0k2jnpkkcp7rg8sxlnwasqsdmwpvre8dwjs6w2s2uzaj2qgkq4akcus) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/tech_subdao_512.png)
 - [Education SubDAO](https://daodao.zone/dao/juno1kfsf0p07a9unhnn3f0qv2vkcwyr8vuzxvjempy739e6ry5acgfeqdkfyuv) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/education_subdao_512.png)
 - [Zealy SubDAO](https://daodao.zone/dao/juno1gs3hkuvjaexu52u9s65e8wj5he753dl4l9yn6vew7hszvxhdg6sqanluwc) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/Zealy_subdao_512.png)
