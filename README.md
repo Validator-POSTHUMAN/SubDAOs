@@ -32,13 +32,13 @@
 - [Defi Geeks SubDAO](https://daodao.zone/dao/juno1a9qj7402e2fkwqjtvnpa5pckv9zdpg34aucdzurvy627gsgxud7qz0undv) | 
 - [Expedition SubDAO](https://daodao.zone/dao/juno1xnejf270qt5gn7nr379k6cjw9p0x8putxr7wf7g7pv5azdudlc7q3kpv6k) | 
 
-- [POSTHUMAN Community SubDAO for english-speakers](https://daodao.zone/dao/juno1q0yn0r4q8h7d3qmtlq7mrxuyn6wc4g99p94hr4d47ftu09wtfkmqwlscpl) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/Community_EN_subdao_512.png)
-- [Admin SubDAO for english-speaking community](https://daodao.zone/dao/juno13k62fjqupyyhlxjt7adrfenzfpu2698d8emwvgkkjlxmj506gvfsf9hfe9) | 
+- [ENG Community SubDAO](https://daodao.zone/dao/juno1q0yn0r4q8h7d3qmtlq7mrxuyn6wc4g99p94hr4d47ftu09wtfkmqwlscpl) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/Community_EN_subdao_512.png)
+- [ENG Admin SubDAO](https://daodao.zone/dao/juno13k62fjqupyyhlxjt7adrfenzfpu2698d8emwvgkkjlxmj506gvfsf9hfe9) | 
 
-- [POSTHUMAN Community SubDAO for russian-speakers](https://daodao.zone/dao/juno15tv8ufpg8t7mke4rs66cqcg0x297y55numn2x6a8kz703reldalqg9w40e) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/Community_RU_subdao_512.png)
-- [Admin SubDAO for russian-speakers community](https://daodao.zone/dao/juno1332n0ydjufkl0agp5mp5tcpyprdlh6yd2wmzyddhssu8j3sx6alse4yqwk) | 
+- [RU Community SubDAO](https://daodao.zone/dao/juno15tv8ufpg8t7mke4rs66cqcg0x297y55numn2x6a8kz703reldalqg9w40e) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/Community_RU_subdao_512.png)
+- [RU Admin SubDAO](https://daodao.zone/dao/juno1332n0ydjufkl0agp5mp5tcpyprdlh6yd2wmzyddhssu8j3sx6alse4yqwk) | 
 
-- [POSTHUMAN Community SubDAO for ukrainian-speakers](https://daodao.zone/dao/juno10p866hul4r7jzp894lcxzjg74zk4g484m8z4y82ha3z44ccqymkqdvaqvh) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/Community_UA_subdao_512.png)
+- [UA Community SubDAO](https://daodao.zone/dao/juno10p866hul4r7jzp894lcxzjg74zk4g484m8z4y82ha3z44ccqymkqdvaqvh) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/Community_UA_subdao_512.png)
 
 - [Info SubDAO](https://daodao.zone/dao/juno1ud8avxjwk5m97s8s5pqd0qhg0lyxqxefjzupyhrqvpq2002svfpq8urfuq) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/info_subdao_512.png)
 
