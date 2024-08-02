@@ -13,7 +13,7 @@
 
 - [CORE-TEAM SubDAO](https://daodao.zone/dao/juno1mptmak8ecmzwghtd4mep82jdkmdt0n6d8ggcd5hjmrfxasjc0epstkvwha) | 
 - [POSTHUMAN Investments](https://daodao.zone/dao/juno198r8220mah5jn5fnxcgjds4j4pf48wyz0e40m0zdtw2385m08zmqqwhumq) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/POSTHUMAN_Investments_SubDAO.png)
-- [AirDrop DeFarm SubDAO](https://daodao.zone/dao/juno19tz7kgh0zffnrr30lnt09ukau2k7nhvn9tq3lvpxrw93acytuqrsezxeaq) | [Logo]()
+- [AirDrop DeFarm SubDAO](https://daodao.zone/dao/juno19tz7kgh0zffnrr30lnt09ukau2k7nhvn9tq3lvpxrw93acytuqrsezxeaq) | [Logo](https://github.com/Validator-POSTHUMAN/brand-book/blob/main/AirDrop_DeFarm2_512.png)
 
 - [Strategic SubDAO](https://daodao.zone/dao/juno1ejdt5w55ad8c3syj8mph3xhchee2jtlcfpw9sm0mq2fh80qygudsjzrwjj) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/Strategic_subdao_512.png)
 - [Reputation SubDAO](https://daodao.zone/dao/juno1uwmtcc8lxc7waqy9takvnsautlfx5qp688jykvvuk4fezd8jf6fs549ym2) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/Reputation_subdao_512.png)
