@@ -43,9 +43,9 @@
 
 - [Info SubDAO](https://daodao.zone/dao/juno1ud8avxjwk5m97s8s5pqd0qhg0lyxqxefjzupyhrqvpq2002svfpq8urfuq) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/info_subdao_512.png)
 
-- [AI SubDAO](https://daodao.zone/dao/juno1l00nplvtnucaud94fs9y5mmckmrpc5d96kpdm8kxwrpkzhlmhxjq07x3w3) | [Logo]()
+- [Liquidity SubDAO](https://daodao.zone/dao/juno16rd66nkhuc2qvzarqs28z0l6gk50qy5w0jdwk2xygtkjz5kclu9qlsyxl4) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/liquidity_subdao_512.png)
 
-- [Music SubDAO](https://daodao.zone/dao/cosmos1c9jg7dc8n4jzqqtxz84942dapzls5g540knz6fa6h54nhhs3texsafsyre/home) | 
+- [Music SubDAO](https://daodao.zone/dao/cosmos1c9jg7dc8n4jzqqtxz84942dapzls5g540knz6fa6h54nhhs3texsafsyre/home) | [Logo](https://github.com/Validator-POSTHUMAN/SubDAOs/blob/main/Music_subdao_512.png)
 
 
 
